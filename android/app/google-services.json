@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335388593953",
+    "project_id": "projetoshiftapp",
+    "storage_bucket": "projetoshiftapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335388593953:android:a261573349da8bde80b860",
+        "android_client_info": {
+          "package_name": "com.apptarefas_danielramgi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335388593953-t7b6id5mkqmq75ao4a87mu7r4geefe88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZK9tn0le6JBbGA5iUk27feQ92CfjZkXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335388593953-t7b6id5mkqmq75ao4a87mu7r4geefe88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
